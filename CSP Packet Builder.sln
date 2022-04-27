@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSP Packet Builder", "CSP Packet Builder\CSP Packet Builder.csproj", "{F7F863DF-6D57-4686-A052-1D44800DC341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F863DF-6D57-4686-A052-1D44800DC341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F863DF-6D57-4686-A052-1D44800DC341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F863DF-6D57-4686-A052-1D44800DC341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F863DF-6D57-4686-A052-1D44800DC341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69C93BB0-1554-4BE5-A143-B2F910FD707C}
+	EndGlobalSection
+EndGlobal
